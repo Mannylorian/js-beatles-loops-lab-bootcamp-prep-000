@@ -1,6 +1,6 @@
 function theBeatlesPlay(musicians, instruments){
   var musicianString
-  var musicianInstrument[]
+  var musicianInstrument[];
   
   return musicianInstrument;
 }
