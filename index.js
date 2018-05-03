@@ -9,7 +9,9 @@ function theBeatlesPlay(musicians, instruments){
 }
 
 
-const facts=
+const facts=[
+  
+  ]
 function johnLennonFacts(facts){
   
 }
