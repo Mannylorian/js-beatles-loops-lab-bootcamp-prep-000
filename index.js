@@ -1,3 +1,3 @@
-function theBeatlesPlay(musciians, instruments){
-  var[musician: 'John','Paul','Ringo','George'];
+function theBeatlesPlay(musician, instrument){
+  var{[musician: 'John','Paul','Ringo','George']};
 }
